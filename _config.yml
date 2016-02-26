@@ -17,9 +17,9 @@ logo:             images/logo.png # logo visible in the topbar
 menu:
   - title: 'Home'
     url: '/'
-  - title: 'Tags'
-    url: '/'
- #   submenu:
+  - title: 'Categories'
+    url: '/categories'
+    submenu:
  #    - title: 'Code Highlighter'
  #       url: '/intro/code-highlighting-post/'
  #     - title: 'Sample Post'
@@ -30,7 +30,7 @@ owner:
   name:           Jason Elwell
   site:           http://google.com
   avatar:         images/avatar.jpg
-  bio:            "Junior Web Dev.  Jack of all trades, master of none."
+  bio:            "Native Michigander.  Junior Web Dev."
   email:          jrelwell@gmail.com
   # Twitter nick for use in Twitter cards and follow button.
   twitter: jrelwell # if no twitter in this config, the twitter follow button will be removed
@@ -77,7 +77,7 @@ permalink:   /:categories/:title/
 paginate: 5
 
 # if true, shows the floatting share buttons
-float_share: true
+float_share: false
 
 kramdown:
   auto_ids: true
