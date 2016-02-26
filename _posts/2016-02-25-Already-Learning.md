@@ -28,7 +28,7 @@ like this is a default Jekyll folder, so maybe it came with the template I am us
 <code>_posts</code> also has requirements to follow to make the blog work.  Files must be saved in the format <code>YYYY-MM-DD-title.extension</code>.
 I am using Markdown to write these posts, so an example would be <code>2016-02-25-post-title.md</code>.
 
-##Side Note
+## Side Note
 
 I had issues with this post as well, and my h2 tags were not being rendered.  **Make sure the #'s do not have any spaces to the left.**  They need to be
 the very first characters of that line.
