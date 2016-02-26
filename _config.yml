@@ -1,9 +1,9 @@
-title:            Work In Progress.
+title:            JRE
 description:      A Blog about me.
 # put your disqus here
 disqus_shortname: 
-reading_time:     true # if true, shows the estimated reading time for a post
-words_per_minute: 200
+reading_time:     false # if true, shows the estimated reading time for a post
+words_per_minute: 80
 logo:             images/logo.png # logo visible in the topbar
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
@@ -18,12 +18,9 @@ menu:
   - title: 'Home'
     url: '/'
   - title: 'Categories'
-    url: '/categories'
-    submenu:
- #    - title: 'Code Highlighter'
- #       url: '/intro/code-highlighting-post/'
- #     - title: 'Sample Post'
- #       url: '/intro/sample-post/'
+    url: '/categories' 
+  - title: 'About Me'
+    url: '/about'
 
 # Owner/author information
 owner:

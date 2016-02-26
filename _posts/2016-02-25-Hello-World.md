@@ -2,9 +2,10 @@
 layout: post
 title: Hello World
 description: "Starting out the blog."
+date: 2016-02-25 18:30:00
 modified: 2016-02-25
 tags: [intro post]
-categories: [random]
+categories: [Random]
 ---
 # I Have A Lot To Learn
 
