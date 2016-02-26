@@ -12,7 +12,7 @@ logo:             images/logo.png # logo visible in the topbar
 # draw your top menu here
 # each item must have a title and a url.
 #   To list post categories. use type: 'categories'
-#   To create sub categories. add a submenu item
+#   To create sub categories. add a submenu item 
 # See the example
 menu:
   - title: 'Home'
