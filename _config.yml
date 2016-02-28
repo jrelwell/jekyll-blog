@@ -21,6 +21,8 @@ menu:
     url: '/categories' 
   - title: 'About Me'
     url: '/about'
+  - title: 'Projects'
+    url: '/projects'
 
 # Owner/author information
 owner:
