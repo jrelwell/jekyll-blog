@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About
+title: About Me
+description: In case my OK Cupid profile wasn't enough.
 share: true
 ---
 

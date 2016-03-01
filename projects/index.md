@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+description: A list of previous and on-going projects.
 share: true
 ---
 
