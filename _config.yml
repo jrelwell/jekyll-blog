@@ -1,4 +1,4 @@
-title:            JRE
+title:            WebDev Jr.
 description:      A Blog about me.
 # put your disqus here
 disqus_shortname: 
@@ -29,7 +29,7 @@ menu:
 # Owner/author information
 owner:
   name:           Jason Elwell
-  site:           http://google.com
+  site:           http://jrelwell.github.io
   avatar:         images/avatar.jpg
   bio:            "Native Michigander.  Junior Web Dev."
   email:          jrelwell@gmail.com
