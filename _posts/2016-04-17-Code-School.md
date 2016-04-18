@@ -16,13 +16,14 @@ It's been a while since I've updated this blog, but that does not mean that I ha
 ## What I Learned, and What Is Next
 
 Many topics were covered in the HTML/CSS path, it was a nice mix of refreshment and new topics.  Covered topics included:
-* HTML5
-* CSS3
-* SVG
-* Mobile/Responsive/Fluid Designs
-* Animations with CSS
-* Bootstrap
-* Color Schemes
-* And others
+
+- HTML5
+- CSS3
+- SVG
+- Mobile/Responsive/Fluid Designs
+- Animations with CSS
+- Bootstrap
+- Color Schemes
+- And others
 
 I tried to incorporate most of the topics into the created example I talk about above.  Next up, I am tackling the Javascript path which has been slow going, and much harder than the previous path.  I am just about finished with the basics, and I look forward to refreshing on my jQuery skills.  Past that, the path includes courses on Ember, Backbone, Angular, and more.  I hope to use each of those in their own example sites so I can build diverse portfolio.
